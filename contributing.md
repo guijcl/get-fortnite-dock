@@ -151,7 +151,7 @@ and a missing Visual C++ runtime.
 
 ---
 
-*Fortnite · Updated 2026-11-13 · Shared under the MIT License*
+*Fortnite · Updated 2026-11-14 · Shared under the MIT License*
 
 
-*Last updated: 2026-11-13*
+*Last updated: 2026-11-14*
